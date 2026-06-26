@@ -1,1 +1,2 @@
 welcome to git
+updating folder1 file
